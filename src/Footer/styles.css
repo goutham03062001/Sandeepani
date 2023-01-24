@@ -1,0 +1,29 @@
+.my-footer-nav-link{
+    color:black !important;
+    list-style-type: none;
+    padding:5px;
+}
+.footer-background-image{
+    width:99vw;
+    height:50vh;
+    position: absolute;
+    background-image: url("../../public/FinalFinalWorldMap.png");
+    background-repeat: repeat;
+    background-position: center;
+    background-size: contain;
+    opacity: 0.1;
+}
+.jumbotron{
+    width:100vw;
+    height:50vh;
+}
+.list-group > li{
+    color:green !important;
+    font-weight: 700;
+}
+
+.list-group > p{
+    color:rgba(232, 13, 78, 0.824) !important;
+    font-weight: 700;
+    font-size: 18px;
+}

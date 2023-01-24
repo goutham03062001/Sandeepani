@@ -1,0 +1,43 @@
+.our-management-background-image{
+  width: 100%;
+  height:100%;
+  background-image: url("../../public/backgroundImageWithBlackBackground.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  opacity: 0.3;
+}
+.management-wrapper{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  height:100vh;
+}
+.main-card{
+  width:15vw;
+  height:40vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.profile{
+  width:100%;
+  height:70%;
+  
+}
+.main-card  p{
+  font-weight: bold;
+}
+.main-card .card-body{
+  box-shadow: -10px 10px 10px #a1c1da ;
+  background-image: linear-gradient(to right,  #CE9FFC, #7367F0);
+  opacity: 70%;
+}
+.button-group{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding:5px;
+}

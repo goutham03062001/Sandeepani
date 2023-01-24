@@ -1,0 +1,13 @@
+.navbar{
+    opacity: 0.9;
+}
+.target:hover{
+    color:red !important;
+    box-shadow:-5px 5px 5px grey;
+    border-radius: 10%;
+    border : 1px solid black;
+}   
+
+.nav_item{
+    color:white !important;
+}
