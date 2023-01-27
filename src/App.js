@@ -6,7 +6,7 @@ import Videos from "./FourthPart/Videos";
 import Navbar from "./Navigation/Navbar";
 import Footer from './Footer/Footer';
 import OurManagment from './Management/OurManagment';
-import Carousel from "./Carousel/Carousel"
+// import Carousel from "./Carousel/Carousel"
 const App = () => {
   return (
     <div>

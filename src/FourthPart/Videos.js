@@ -2,7 +2,7 @@ import { Button } from '@mui/material'
 import React,{useEffect} from 'react'
 import "./styles.css";
 import AOS from "aos";
-import {Rate} from "antd";
+// import {Rate} from "antd";
 const Videos = () => {
   useEffect(() => {
     AOS.init({
